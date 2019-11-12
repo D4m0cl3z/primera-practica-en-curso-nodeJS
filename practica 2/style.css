@@ -1,0 +1,63 @@
+.main {
+  display: flex;
+  flex-flow: wrap;
+}
+
+.perfil{
+  text-align: center;
+  width: 20vw;
+  height: 20vw;
+  font-family: 'Ruge Boogie', cursive;
+  font-size: 1vw;
+  border-color: aqua;
+  border-style: solid;
+  align-content: flex-start;
+}
+.espacio{
+  width: 9.7vw;
+  height: 9.7vw;
+}
+
+.trabajos{
+  font-size: 2vw;
+  text-align: center;
+  display: inline-flex;
+  justify-content: space-around;
+  flex-grow: 1;
+}
+
+.proyecto{
+  margin-top: 1vw;
+  border-style: solid;
+  width: 15vw;
+}
+
+.proyecto p {
+  font-size: 1vw;
+}
+.proyecto1{
+  margin-top: 2vw;
+  border-style: solid;
+  width: 15vw;
+  margin-top: 4vw;
+}
+
+.proyecto1 p {
+  font-size: 1vw;
+}
+
+.separacion{
+  margin-top: 1vw;
+}
+.
+@keyframes{
+0%{
+
+
+}
+50%{
+
+
+}
+
+}
